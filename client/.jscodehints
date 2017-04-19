@@ -1,0 +1,12 @@
+{
+	"excluded-directories": [
+		"frameworks/cocos2d-x",
+		"frameworks/runtime-src",
+		"node_modules",
+		"publish",
+		"simulator"
+	],
+	"excluded-files": [
+		"*.png"
+	]
+}

@@ -1,0 +1,13 @@
+# cocos2d core
+client/frameworks/
+
+# apk release directories
+client/publish/
+client/simulator/
+
+# grunt
+client/node_modules/
+server/node_modules/
+
+# app
+client/src/app.js
