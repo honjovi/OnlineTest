@@ -7,6 +7,7 @@ cocos2d-xのプロジェクトを、clientディレクトリと統合する。
 
 ```
 > git clone https://github.com/honjovi/OnlineTest.git
+> cd OnlineTeset
 > mv client client.orig
 > cocos new client -l js
 > cp -r client.orig/* client/.
